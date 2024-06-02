@@ -1,12 +1,12 @@
 ---
-title: Docs
+title: wiki
 menu:
   main:
-    weight: 1
+    identifier: docs
+    weight: 4
     params:
       icon:
-        vendor: bs
-        name: book
+        vendor: fas
+        name: blog
 ---
-
 The example of Docs layout.
